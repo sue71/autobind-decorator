@@ -1,5 +1,5 @@
 {
-  "name": "autobind-decorator",
+  "name": "typed-autobind-decorator",
   "version": "1.0.0",
   "description": "autobind decorator writen by typescript",
   "main": "lib/autobind.js",
