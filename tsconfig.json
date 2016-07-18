@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "removeComments": true,
+    "noLib": false,
+    "preserveConstEnums": true,
+    "declaration": true,
+    "experimentalDecorators": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "outDir": "./lib"
+  },
+  "filesGlob": [
+    "**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "src/__spec__"
+  ]
+}
